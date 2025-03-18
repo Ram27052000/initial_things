@@ -1,5 +1,5 @@
 import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
-import {ChevronRight, Code2, Github, Laptop} from "lucide-react";
+import {ChevronRight, Github, Laptop} from "lucide-react";
 
 export default function Tech() {
    return(
