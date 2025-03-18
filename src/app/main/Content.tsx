@@ -10,7 +10,7 @@ export default function Content() {
                     <div className="space-y-4">
                         <h1 className='text-4xl font-bold tracking-tight'>Hi, I'm R.V. Ram</h1>
                         <p className="text-xl text-gray-500">
-                            Software Developer with 2+ years of experience in Angular,
+                            Software Developer with 3 years of experience in Angular,
                             React,SAP UI5, Spring Boot and more...
                         </p>
                         <div className="flex flex-wrap gap-2 pt-2">
