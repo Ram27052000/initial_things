@@ -25,7 +25,7 @@ export default function Tech() {
                         </li>
                         <li className="flex items-center gap-2">
                             <ChevronRight className="h-4 w-4 text-primary"/>
-                            <span>SAPUI5 & Fiori</span>
+                            <span>SAP UI5 & Fiori</span>
                         </li>
                     </ul>
                 </CardContent>
@@ -55,7 +55,7 @@ export default function Tech() {
                 </CardContent>
             </Card>
             <Card>
-                <CardHeader>`x
+                <CardHeader>
                     <CardTitle className="flex items-center gap-2">
                         <Github className="h-5 w-5"/>
                         DevOps & Cloud

@@ -2,6 +2,7 @@ import Header from './Header'
 import Content from './Content'
 import About from "./About";
 import Tech from "./Tech";
+import Projects from "./Projects";
 export default function Home() {
     return (
         <div className="grid gap-8">
@@ -10,6 +11,7 @@ export default function Home() {
                 <Content></Content>
                 <About></About>
                 <Tech></Tech>
+                <Projects></Projects>
             </div>
         </div>
     );
